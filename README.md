@@ -6,3 +6,6 @@ La página esta diseñada para gente que estudia arquitectura pueda trabajar en 
 
 
 Link de página web: https://anyelg.github.io/SemanaTec_H1003S.108/
+
+
+Referencia de como hacer la página web: https://www.youtube.com/watch?v=V0O4pY2xX10&t=601s
