@@ -19,17 +19,17 @@ body
     left: -250px;
     width: 250px;
     height: 100%;
-    background: #A0C2AF;
+    background: #5FA8D3;
     transition: all .5s ease;
 }
 
 .sidebar header
 {
     font-size: 22px;
-    color: #41624F;
+    color: #CAE9FF;
     text-align: center;
     line-height: 70px;
-    background: #D8E2DC;
+    background: #468AB1;
     user-select: none;
 }
 
@@ -39,10 +39,10 @@ body
     height: 100%;
     width: 100%;
     font-size: 17px;
-    color: #41624F;
+    color: #CAE9FF;
     padding: 20px;
     box-sizing: border-box;
-    border-bottom: 1px solid #41624F;
+    border-bottom: 1px solid #CAE9FF;
     transition: .4s;
 }
 
@@ -65,7 +65,7 @@ label #btn, label #cancel
 {
     position: absolute;
     cursor: pointer;
-    background: #A0C2AF;
+    background: #5FA8D3;
     border-radius: 3px;
 }
 
@@ -74,7 +74,7 @@ label #btn
     left: 40px;
     top: 25px;
     font-size: 35px;
-    color: #41624F;
+    color: #CAE9FF;
     transition: all .5s;
 }
 
@@ -84,7 +84,7 @@ label #cancel
     left: -195px;
     top: 17px;
     font-size: 30px;
-    color: #41624F;
+    color: #CAE9FF;
     transition: all .5s ease;
 }
 
@@ -112,7 +112,7 @@ label #cancel
 
 section
 {
-    background: url(Images/fondo.jpg) no-repeat;
+    background: url(Images/fondo.png) no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
